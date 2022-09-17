@@ -48,11 +48,11 @@ REQUIREMENTS:
 
 =============================================================
 
-This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing an IMAGINATION PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA. This IMAGINATION PROXIA utilized View Synthesis. Definition of View synthesis: given an input image, synthesizing new images of the same object or scene observed from arbitrary viewpoints.
+This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing an IMAGINATION PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA. This IMAGINATION PROXIA utilized View Synthesis. Definition of View synthesis: given an input image, synthesizing new images of the same object or scene observed from arbitrary viewpoints.
 
 USAGE:
 
-e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there.
+e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there. ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS can synthesize new views of places they cannot access but can see from particular angles (very useful).
 
 
 e.g **DREAMING**: IMAGINATION PROXIAS CAN BE USED BY THE ROBOTS TO "DREAM". BY DREAMING I MEAN WHEN THE ROBOT IS IN HIBERNATION/SLEEP MODE IT CAN STILL PROCESS INFORMATION ABOUT THE OUTSIDE WORLD ON A LIMITED BASIS. **ARTIFICIAL INTELLIGENCE 2.0 **™ ROBOTS CAN EXPLORE SCENES THEY ENCOUNTERED DURING THE DAY WHILE HIBERNATING/SLEEP MODE.
@@ -82,5 +82,7 @@ FIND STICKERS HERE: https://bit.ly/3B8D3lE
 You must display the included stickers/signs (so that it is clearly visible) if you are working with MAGNETRON ™ TECHNOLOGY for the purposes of determining whether you want to purchase a technology license or not. This includes but is not limited to public technology displays, trade shows, technology expos, media appearances, Investor events, Computers (exterior), MINDCLOUD STORAGE (e.g server room doors, render farm room doors) etc.
 
 🌐 NOTE: IMAGINATION PROXIA A IS DESCRIBED IN THE 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ DOCUMENTATION.
+
+🌐 NOTE: ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY.
 
 
