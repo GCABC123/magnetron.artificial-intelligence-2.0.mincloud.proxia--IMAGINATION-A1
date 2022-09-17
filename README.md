@@ -52,7 +52,7 @@ This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing 
 
 USAGE:
 
-e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there. ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS can synthesize new views of places they cannot access but can see from particular angles (very useful).
+e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there. ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS can synthesize new views of places they cannot access but can see from particular angles (very useful). 
 
 
 e.g **DREAMING**: IMAGINATION PROXIAS CAN BE USED BY THE ROBOTS TO "DREAM". BY DREAMING I MEAN WHEN THE ROBOT IS IN HIBERNATION/SLEEP MODE IT CAN STILL PROCESS INFORMATION ABOUT THE OUTSIDE WORLD ON A LIMITED BASIS. **ARTIFICIAL INTELLIGENCE 2.0 **™ ROBOTS CAN EXPLORE SCENES THEY ENCOUNTERED DURING THE DAY WHILE HIBERNATING/SLEEP MODE.
@@ -85,4 +85,8 @@ You must display the included stickers/signs (so that it is clearly visible) if 
 
 🌐 NOTE: ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY.
 
+🌐 NOTE: REMEMBER ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) AND CAN GATHER DATASETS (WITH EYE CAMERAS, EAR MICROPHONES ETC) FOR DEEP LEARNING (THIS MAKES THEM IDEAL FOR RECONNAISSANCE AS WELL AS ADAPTING TO SITUATION SPECIFIC THREATS IN MILITARY/LAW ENFORCEMENT ENDEAVORS). 
 
+🌐 NOTE: REMEMBER ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) MAKING GATHERING IMAGES FOR ADVANCED ROBOTIC NeRF VIEW SYNTHESIS EASY. 
+
+🌐 NOTE: IMAGES FOR ADVANCED ROBOTIC NeRF VIEW SYNTHESIS CAN COME A FROM SINGLE FRAME OF VIDEO FOOTAGE RECORDED BY THE ROBOT'S EYE CAMERAS AT AN EARLIER DATE.
