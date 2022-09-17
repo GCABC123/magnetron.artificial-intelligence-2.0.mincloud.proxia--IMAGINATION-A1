@@ -44,7 +44,7 @@ REQUIREMENTS:
 
 [*] HARDWARE REQUIREMENTS: fast TPU/GPU (Tensor or Graphics Processing Unit)
 
-[*] DEPENDENCIES: INCLUDED
+[*] DEPENDENCIES: COLMAP, THE OTHERS ARE INCLUDED
 
 =============================================================
 
