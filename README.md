@@ -48,7 +48,7 @@ REQUIREMENTS:
 
 =============================================================
 
-This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing an IMAGINATION PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA. This IMAGINATION PROXIA utilized View Synthesis. Definition of View synthesis: given an input image, synthesizing new images of the same object or scene observed from arbitrary viewpoints.
+This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing an IMAGINATION PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be developing a PROXIA. This IMAGINATION PROXIA utilizes View Synthesis. Definition of View synthesis: given an input image, synthesizing new images of the same object or scene observed from arbitrary viewpoints.
 
 USAGE:
 
@@ -85,7 +85,7 @@ You must display the included stickers/signs (so that it is clearly visible) if 
 
 🌐 NOTE: ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY.
 
-🌐 NOTE: REMEMBER ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) AND CAN GATHER DATASETS (WITH EYE CAMERAS, EAR MICROPHONES ETC) FOR DEEP LEARNING (THIS MAKES THEM IDEAL FOR RECONNAISSANCE AS WELL AS ADAPTING TO SITUATION SPECIFIC THREATS IN MILITARY/LAW ENFORCEMENT ENDEAVORS). 
+🌐 NOTE: REMEMBER ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) AND CAN GATHER DATASETS (WITH EYE CAMERAS, EAR MICROPHONES ETC) FOR DEEP LEARNING (THIS MAKES THEM IDEAL FOR RECONNAISSANCE AS WELL AS ADAPTING TO SITUATION SPECIFIC THREATS IN MILITARY/LAW ENFORCEMENT/PERSONAL SECURITY ENDEAVORS etc). 
 
 🌐 NOTE: REMEMBER ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) MAKING GATHERING IMAGES FOR ADVANCED ROBOTIC NeRF VIEW SYNTHESIS EASY. 
 
