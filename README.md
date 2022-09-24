@@ -44,7 +44,11 @@ REQUIREMENTS:
 
 [*] HARDWARE REQUIREMENTS: fast TPU/GPU (Tensor or Graphics Processing Unit)
 
-[*] DEPENDENCIES: COLMAP, THE OTHERS ARE INCLUDED
+[*] DEPENDENCIES: THE OTHERS ARE INCLUDED [DOCKERFILE INCLUDED] 
+
+OR 
+
+DOWNLOAD DOCKERFILES FROM HERE: https://github.com/GCABC123/magnetron-imagination
 
 =============================================================
 
