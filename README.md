@@ -68,7 +68,7 @@ USAGE:
 e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there. ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS can synthesize new views of places they cannot access but can see from particular angles (very useful). 
 
 
-e.g **DREAMING**: IMAGINATION PROXIAS CAN BE USED BY THE ROBOTS TO "DREAM". BY DREAMING I MEAN WHEN THE ROBOT IS IN HIBERNATION/SLEEP MODE IT CAN STILL PROCESS INFORMATION ABOUT THE OUTSIDE WORLD ON A LIMITED BASIS. **ARTIFICIAL INTELLIGENCE 2.0 **™ ROBOTS CAN EXPLORE SCENES THEY ENCOUNTERED DURING THE DAY WHILE HIBERNATING/SLEEP MODE.
+e.g **DREAMING**: IMAGINATION PROXIAS CAN BE USED BY THE ROBOTS TO "DREAM". BY DREAMING I MEAN WHEN THE ROBOT IS IN HIBERNATION/SLEEP MODE IT CAN STILL PROCESS INFORMATION ABOUT THE OUTSIDE WORLD ON A LIMITED BASIS. **ARTIFICIAL INTELLIGENCE 2.0 ™** ROBOTS CAN EXPLORE SCENES THEY ENCOUNTERED DURING THE DAY WHILE HIBERNATING/SLEEP MODE.
 
 e.g To see how an object would look like in different lighting situations.
 
